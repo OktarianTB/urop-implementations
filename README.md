@@ -4,3 +4,6 @@
 - [Vanilla](https://github.com/OktarianTB/gnn-implementations/blob/master/GCN_Vanilla.ipynb)
 - [PyTorch Geometric](https://github.com/OktarianTB/gnn-implementations/blob/master/GCN_Pyg.ipynb)
 
+**Deep Graph InfoMax:** [Implementation](https://github.com/OktarianTB/gnn-implementations/blob/master/Deep_Graph_InfoMax.ipynb)
+
+**Graph Contrastive Learning with Adaptive Augmentation:** [Implementation](https://github.com/OktarianTB/gnn-implementations/blob/master/Graph_Contrastive_Learning_with_Adaptive_Augmentation.ipynb)
