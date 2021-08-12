@@ -1,4 +1,4 @@
-# Implementation of Graph Neural Networks
+# Implementation of UROP Models (Graph Representation Learning & Medical Imaging)
 
 **Graph Convolutional Networks:**
 - [Vanilla](https://github.com/OktarianTB/urop-implementations/blob/master/GCN_Vanilla.ipynb)
